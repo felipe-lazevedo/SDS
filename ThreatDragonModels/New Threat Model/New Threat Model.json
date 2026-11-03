@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "0",
+  "released_at": "2026-11-03",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Felipe l.a.",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "me",
+    "threatTop": 0
+  }
+}
